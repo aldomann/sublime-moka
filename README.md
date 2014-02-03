@@ -6,25 +6,19 @@ A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal 
 
 ### Themes
 
-#### Spacegray
+#### Moka Dark
 
-Default flavor based on Base16 Ocean Dark color scheme.
+Default flavor based on Monokai color scheme.
 
-![image](Screenshots/spacegray.png)
+![image](Screenshots/monokai-dark.png)
 
-#### Spacegray Light
+#### Moka Light
 
-Light variation based on Base16 Ocean Light color scheme.
+Light variation based on Monokai color scheme.
 
-![image](Screenshots/spacegray-light.png)
+![image](Screenshots/monokai-light.png)
 
-#### Spacegray Eighties
-
-A variation based on Base16 Eighties Dark color scheme.
-
-![image](Screenshots/spacegray-eighties.png)
-
-*The font used in the screenshots is __Source Code Pro__.*
+*The font used in the screenshots is __Droid Sans__.*
 
 ***
 
@@ -32,18 +26,18 @@ A variation based on Base16 Eighties Dark color scheme.
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray is listed as `Theme - Spacegray`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Moka is listed as `Theme - Moka`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (⇧+⌘+P on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Theme - Spacegray` and hit Enter
+3. Find `Theme - Moka` and hit Enter
 
 #### Manual
 
 You can also install the theme manually:
 
 1. [Download the .zip](https://github.com/kkga/spacegray/archive/master.zip)
-2. Unzip and rename the folder to `Theme - Spacegray`
+2. Unzip and rename the folder to `Theme - Moka`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
 ***
@@ -56,35 +50,24 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
 
 ***Note: Don't forget to restart Sublime Text after activating the theme.***
 
-#### Settings for Spacegray
+#### Settings for Moka Dark
 
 ```
 {
-  "theme": "Spacegray.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
+  "theme": "Moka Dark.sublime-theme"
 }
 ```
 
-#### Settings for Spacegray Light
+#### Settings for Moka Light
 
 ```
 {
-  "theme": "Spacegray Light.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
-}
-```
-
-#### Settings for Spacegray Eighties
-
-```
-{
-  "theme": "Spacegray Eighties.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
+  "theme": "Moka Light.sublime-theme"
 }
 ```
 
 ***
 
-### Thanks
+<!-- ### Thanks -->
 
-The Spacegray Eighties variation is contributed by [Yoshua Wuyts](https://github.com/yoshuawuyts).
+<!-- The Spacegray Eighties variation is contributed by [Yoshua Wuyts](https://github.com/yoshuawuyts). -->
