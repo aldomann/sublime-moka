@@ -1,20 +1,20 @@
 # Moka Sublime Text Theme
 
-A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal and comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
+A set of custom UI themes for Sublime Text 2/3  that matches [Moka GTK+ theme](http://mokaproject.com/moka-gtk-theme/), based on [Spacegray](https://github.com/kkga/spacegray).
 
 ***
 
 ### Themes
 
-#### Moka Dark
+#### Moka Light
 
-Default flavor based on Monokai color scheme.
+Default flavour.
 
 ![image](Screenshots/monokai-dark.png)
 
-#### Moka Light
+#### Moka Dark
 
-Light variation based on Monokai color scheme.
+Dark variation.
 
 ![image](Screenshots/monokai-light.png)
 
@@ -28,7 +28,7 @@ Light variation based on Monokai color scheme.
 
 The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Moka is listed as `Theme - Moka`.
 
-1. Open Command Palette using menu item `Tools -> Command Palette...` (⇧+⌘+P on Mac)
+1. Open Command Palette using menu item `Tools -> Command Palette...` (Ctrl + Shift + P).
 2. Choose `Package Control: Install Package`
 3. Find `Theme - Moka` and hit Enter
 
@@ -36,7 +36,7 @@ The easiest way to install is using [Sublime Package Control](https://sublime.wb
 
 You can also install the theme manually:
 
-1. [Download the .zip](https://github.com/kkga/spacegray/archive/master.zip)
+1. [Download the .zip](https://github.com/aldomann/sublime-moka/archive/master.zip)
 2. Unzip and rename the folder to `Theme - Moka`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
@@ -65,9 +65,3 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
   "theme": "Moka Light.sublime-theme"
 }
 ```
-
-***
-
-<!-- ### Thanks -->
-
-<!-- The Spacegray Eighties variation is contributed by [Yoshua Wuyts](https://github.com/yoshuawuyts). -->
