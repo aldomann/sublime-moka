@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Gadzhi Kharkharov</string>
+	<key>comment</key>
+	<string>Moka</string>
+	<key>name</key>
+	<string>Moka Light</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#e3e3e3</string>
+				<key>caret</key>
+				<string>#4f5b66</string>
+				<key>foreground</key>
+				<string>#4f5b66</string>
+				<key>invisibles</key>
+				<string>#A348B1</string>
+				<key>selection</key>
+				<string>#A348B1</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

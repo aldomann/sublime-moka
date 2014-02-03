@@ -1,0 +1,996 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cp",
+				"cpuinfo"
+			],
+			[
+				"s",
+				"stable"
+			],
+			[
+				"insta",
+				"installed"
+			],
+			[
+				"goo",
+				"google-earth-stable"
+			],
+			[
+				"Repos",
+				"repository"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Moka Light.sublime-theme",
+			"settings":
+			{
+				"buffer_size": 25487,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Moka Dark.sublime-theme",
+			"settings":
+			{
+				"buffer_size": 25538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aldomann/Dropbox/Binaries/Stuff/git-commands",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"tog",
+				"View: Toggle Menu"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"bookmar",
+				"Bookmarks: Toggle"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"open ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"fold",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"bar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"proj",
+				"Project: Refresh Folders"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"INI",
+				"Set Syntax: INI"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa se",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"updg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"paka",
+				"Package Control: Add Channel"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"cka",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"sudo aptitude update",
+			"asd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aldomann/Dropbox/Binaries/Stuff/commands",
+		"/home/aldomann/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Dark.stTheme",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Light.stTheme",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka.sublime-project",
+		"/home/aldomann/Dropbox/Binaries/masterscript",
+		"/home/aldomann/.config/sublime-text-3/Packages/SublimeBookmarks/Default.sublime-keymap",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Default.sublime-keymap",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/README.md",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka Light.sublime-theme",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages/1.1.3.txt",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka Dark.sublime-theme",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Dark.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.last-run",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.ca-list",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.ca-bundle",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/package-metadata.json",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Light.sublime-settings",
+		"/home/aldomann/Dropbox/Binaries/.bash_profile",
+		"/home/aldomann/Dropbox/Binaries/.bashrc",
+		"/home/aldomann/Dropbox/Binaries/25105.user.js",
+		"/home/aldomann/Dropbox/Binaries/add-apps",
+		"/home/aldomann/Dropbox/Binaries/add-repos",
+		"/home/aldomann/Dropbox/Binaries/apps-manager.sublime-project",
+		"/home/aldomann/Dropbox/Binaries/appsfixer",
+		"/home/aldomann/Dropbox/Binaries/bpull",
+		"/home/aldomann/Dropbox/Binaries/gclean",
+		"/home/aldomann/Dropbox/Binaries/image-usb-stick",
+		"/home/aldomann/Dropbox/Binaries/mountiso",
+		"/home/aldomann/Dropbox/Binaries/pdfconvert",
+		"/home/aldomann/Dropbox/Binaries/.GPG Keys/aldomann-private.key",
+		"/home/aldomann/Downloads/Untitled Folder/The Hobbit - An Unexpected Journey (2012).srt",
+		"/home/aldomann/Downloads/Untitled Folder/The Lord of the Rings - The Return of the King (2003) Part 2.srt",
+		"/home/aldomann/Downloads/Untitled Folder/The Lord of the Rings - The Return of the King (2003) Part 1.srt",
+		"/home/aldomann/Downloads/Untitled Folder/The Lord of the Rings - The Fellowship of the Rings (2001) Part 2.srt",
+		"/home/aldomann/Downloads/Untitled Folder/The Lord of the Rings - The Fellowship of the Rings (2001) Part 1.srt",
+		"/home/aldomann/Downloads/Untitled Folder/The Lord of the Rings - The Two Towers (2002) Part 2.srt",
+		"/home/aldomann/Downloads/Untitled Folder/The Lord of the Rings - The Two Towers (2002) Part 1.srt",
+		"/home/aldomann/Downloads/WIP/moka-todo.txt",
+		"/home/aldomann/Dropbox/Binaries/gpull",
+		"/home/aldomann/Downloads/Git + Bzr/moka-icon-theme/render-pngs.py",
+		"/home/aldomann/Downloads/Git + Bzr/moka-icon-theme-creator/render-pngs.py",
+		"/home/aldomann/Dropbox/Binaries/Sublime Text/Preferences.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/WordCount/WordCount.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - SpacegrayMonokai.sublime-package_FILES/Spacegray Monokai.sublime-theme",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - SpacegrayMonokai.sublime-package_FILES/Spacegray/Widget - Spacegray Monokai.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - SpacegrayMonokai.sublime-package_FILES/Spacegray/Widget - Spacegray Monokai.stTheme",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - Spacegray.sublime-package_FILES/messages.json",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - Spacegray.sublime-package_FILES/package-metadata.json",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - Spacegray.sublime-package_FILES/Spacegray Eighties.sublime-theme",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - Spacegray.sublime-package_FILES/Spacegray/Widget - Spacegray Eighties.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Theme - Spacegray.sublime-package_FILES/Spacegray/Widget - Spacegray Eighties.stTheme",
+		"/home/aldomann/.config/sublime-text-3/Installed Packages/Spacegray Eighties.sublime-theme",
+		"/home/aldomann/Downloads/The Lord of the Rings The Two Towers (2002) [1080p] {5.1}/The.Lord.of.the.Rings.The.Two.Towers.Part.2.BluRay.1080p.x264.5.1.Judas.srt",
+		"/home/aldomann/Downloads/The Lord of the Rings The Two Towers (2002) [1080p] {5.1}/The.Lord.of.the.Rings.The.Two.Towers.Part.1.BluRay.1080p.x264.5.1.Judas.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/The Lord of the Rings/The Lord of the Rings - The Two Towers (2002).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/The Lord of the Rings/The Lord of the Rings - The Return of the King (2003) Part 2.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/The Lord of the Rings/The Lord of the Rings - The Return of the King (2003) Part 1.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/The Lord of the Rings/The Lord of the Rings - The Fellowship of the Rings (2001) Part 2.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/The Lord of the Rings/The Lord of the Rings - The Fellowship of the Rings (2001) Part 1.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/The Lord of the Rings/The Hobbit - An Unexpected Journey (2012).srt",
+		"/home/aldomann/Downloads/The Lord of the Rings The Return of the King (2003) [1080p] {5.1}/The.Lord.of.the.Rings.The.Return.of.the.King.Part.2.BluRay.1080p.x264.5.1.Judas.srt",
+		"/home/aldomann/Downloads/The Lord of the Rings The Return of the King (2003) [1080p] {5.1}/The.Lord.of.the.Rings.The.Return.of.the.King.Part.1.BluRay.1080p.x264.5.1.Judas.srt",
+		"/home/aldomann/Dropbox/Apps Desktops/mimeinfo.cache",
+		"/home/aldomann/Dropbox/Apps Desktops/mimeapps.list",
+		"/home/aldomann/Downloads/WIP/cantor-packages.txt",
+		"/home/aldomann/Downloads/Gravity 2013 1080p WEB-DL DD 5 1 x264-NoGrp .srt",
+		"/home/aldomann/.local/share/themes/Moka GIT/index.theme",
+		"/home/aldomann/Downloads/Git + Bzr/moka-icon-theme/Moka/index.theme",
+		"/home/aldomann/.local/share/themes/Moka GIT/icon-theme.cache",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-icppfcnhkcmnfdhfhphakoifcfokfdhg-Default.desktop",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-mmimngoggfoobjdlefbcabngfnmieonb-Default.desktop",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default.desktop",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-ojcflmmmcfpacggndoaaflkmcoblhnbh-Default.desktop",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-mjcnijlhddpbdemagnpefmlkjdagkogk-Default.desktop",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-cnkjkdjlofllcpbemipjbcpfnglbgieh-Default.desktop",
+		"/home/aldomann/Dropbox/Apps Desktops/chrome-gibjhmenngmjnbmhfemjkolgkofimfjc-Default.desktop",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/3.The.Return.of.the.King.2003.Extended.1080p.BluRay.x264.anoXmous/The.Return.of.the.King.2003.Extended.1080p.BluRay.x264.anoXmous_eng.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/3.The.Return.of.the.King.2003.Extended.1080p.BluRay.x264.anoXmous/The.Return.of.the.King.2003.Extended.1080p.BluRay.x264.anoXmous_Elvish.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/2.The.Two.Towers.2002.Extended.1080p.BluRay.x264.anoXmous/The.Two.Towers.2002.Extended.1080p.BluRay.x264.anoXmous_eng.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/2.The.Two.Towers.2002.Extended.1080p.BluRay.x264.anoXmous/The.Two.Towers.2002.Extended.1080p.BluRay.x264.anoXmous_Elvish.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/1.The.Fellowship.of.the.Ring.2001.Extended.1080p.BluRay.x264.anoXmous/The.Fellowship.of.the.Ring.2001.Extended.1080p.BluRay.x264.anoXmous_eng.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/1.The.Fellowship.of.the.Ring.2001.Extended.1080p.BluRay.x264.anoXmous/The.Fellowship.of.the.Ring.2001.Extended.1080p.BluRay.x264.anoXmous_Elvish.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/2.The.Two.Towers.2002.Extended.1080p.BluRay.x264.anoXmous/The.Two.Towers.2002.Extended.1080p.BluRay.x264.anoXmous_swe.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/1.The.Fellowship.of.the.Ring.2001.Extended.1080p.BluRay.x264.anoXmous/The.Fellowship.of.the.Ring.2001.Extended.1080p.BluRay.x264.anoXmous_swe.srt",
+		"/home/aldomann/Downloads/The.Lord.of.the.Rings.Trilogy.Extended.Complete.1080p.BluRay.x264.anoXmous/3.The.Return.of.the.King.2003.Extended.1080p.BluRay.x264.anoXmous/The.Return.of.the.King.2003.Extended.1080p.BluRay.x264.anoXmous_swe.srt",
+		"/home/aldomann/Downloads/Harry Potter 5 and the Order of the Phoenix 1080p BluRay x264.srt",
+		"/home/aldomann/Downloads/Harry Potter and the Order of the Phoenix (2007) 720p.Blu-ray.DTS.x264-ESiR.English.ass",
+		"/home/aldomann/Downloads/The Hobbit An Unexpected Journey (2012) [1080p] {5.1}/The Hobbit - An Unexpected Journey (2012).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/Harry Potter/Harry Potter and the Goblet of Fire (2005).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/Harry Potter/Harry Potter and the Chamber of Secrets (2002).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/Harry Potter/Harry Potter and the Prisoner of Azkaban (2004).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/Harry Potter/Harry Potter and the Half-Blood Prince (2009).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Films/Harry Potter/Harry Potter and the Sorcerer's Stone (2001).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/White Collar/White Collar 5x12 - Taking Stock (Español (España)).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/White Collar/white.collar.s05e09.720p.hdtv.x264-killers.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/White Collar/white.collar.s05e11.720p.hdtv.x264-killers.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/White Collar/white.collar.s05e12.720p.hdtv.x264-killers.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/White Collar/White.Collar.S05E10.720p.HDTV.x264-IMMERSE.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/Modern Family/Modern.Family.S05E11.720p.HDTV.x264-REMARKABLE.srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/Modern Family/Modern Family 5x13 - Three Dinners (Español (España)).srt",
+		"/media/aldomann/5ADEC4FBDEC4D085/Series/Modern Family/Modern Family 5x12 - Under Pressure (Español (España)).srt",
+		"/usr/share/applications/Thunar-folder-handler.desktop",
+		"/usr/share/applications/gvbam.desktop",
+		"/usr/share/applications/Thunar.desktop",
+		"/usr/share/applications/gnome-system-log.desktop",
+		"/usr/share/applications/nm-applet.desktop",
+		"/usr/share/applications/gcm-import.desktop",
+		"/usr/share/applications/gnome-documents.desktop",
+		"/usr/share/applications/exo-file-manager.desktop",
+		"/usr/share/applications/thunar-settings.desktop",
+		"/usr/share/applications/nautilus-classic.desktop",
+		"/usr/share/applications/nautilus-connect-server.desktop",
+		"/usr/share/applications/gcm-viewer.desktop",
+		"/usr/share/applications/gcm-calibrate.desktop",
+		"/usr/share/applications/gcm-picker.desktop",
+		"/usr/share/applications/gnome-color-panel.desktop",
+		"/usr/share/applications/Thunar-bulk-rename.desktop",
+		"/usr/share/applications/gnome-break-timer.desktop",
+		"/usr/share/applications/gnome-break-timer-service.desktop",
+		"/home/aldomann/Downloads/Shaun of the Dead [2004]/VobSub/Shaun of the Dead (2004) Blu-ray EUR 1080p AVC DTS 5.1 - ID13 - en-English_SDH_exp.sub",
+		"/home/aldomann/Downloads/Shaun of the Dead [2004]/VobSub/Shaun of the Dead (2004) Blu-ray EUR 1080p AVC DTS 5.1 - ID13 - en-English_SDH_exp.idx",
+		"/home/aldomann/.config/menus/gnome-applications.menu",
+		"/home/aldomann/.config/menus/applications-merged/user-chrome-apps.menu",
+		"/home/aldomann/.gnome/apps/chrome-gibjhmenngmjnbmhfemjkolgkofimfjc-Default.desktop",
+		"/home/aldomann/.local/share/desktop-directories/chrome-apps.directory"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"overl",
+			"scroll",
+			"WIP",
+			"51, 61, 71",
+			"// Pressed button state",
+			"255, 255",
+			"SCROLLBARS",
+			"button",
+			"85",
+			"57",
+			"BOTTOM",
+			"bottom",
+			"221, 221, 221",
+			"85, 85, 85",
+			"85, 85",
+			"WIP",
+			"dirty",
+			"254, 204, 102",
+			"242",
+			"81, 81, 81",
+			"242, 240, 236",
+			"163, 72, 177",
+			"buttons",
+			"button",
+			"butt",
+			"39, ",
+			"51, 61, 71",
+			"242, 240, 236",
+			"81, 81",
+			"240",
+			"30, 30, 30",
+			"38, 38, 38",
+			"30, 30, 30",
+			"162",
+			"30, 30, 30",
+			"57, 57, 57",
+			"45, 45, 45",
+			"239, 239, 239",
+			"223",
+			"247, 247, 247",
+			"230, 233",
+			"223, 225, 232",
+			"162, 72",
+			"162",
+			"239, 241, 245",
+			"192, 197, 206",
+			"tint\": [",
+			"223, 225, 232",
+			"Mok",
+			"Eigh",
+			"-l",
+			"\nl",
+			"\nl ",
+			"l",
+			"...l ",
+			"...l",
+			"Nûm",
+			"Dûnedain",
+			"valor",
+			"defense",
+			"honor",
+			"lsengard",
+			"STRl",
+			"PlPPIN:",
+			"l'll",
+			" l,",
+			" l.",
+			"am l",
+			"EL:",
+			"lR:",
+			"MLl:",
+			"l:",
+			"umor",
+			"avor",
+			"ax.",
+			"ax ",
+			"mli",
+			"Gloin",
+			"mli",
+			"gím",
+			"GlM",
+			"l ",
+			"lt",
+			"lsil",
+			"-Io",
+			"lt'",
+			"-l",
+			"l've",
+			"l'd",
+			"l'm",
+			"lts",
+			" lts",
+			"lts",
+			" l ",
+			"KlLl:",
+			"FlLl:",
+			"GALADRlEL:",
+			"Gala",
+			"uman",
+			"LlNDlR:",
+			"N:",
+			"lN:",
+			"ALlN:",
+			"ORl:",
+			"NOR",
+			"NORl:",
+			"N:",
+			"R:",
+			" l ",
+			"lt ",
+			"ln",
+			"l'll",
+			"l'd",
+			"l've",
+			"l'",
+			"l'm",
+			"lt's",
+			"chrome",
+			"font",
+			"45",
+			"[45, 45, 45]",
+			"font",
+			"[45, 45, 45]",
+			"45",
+			" l ",
+			"GIMLl:",
+			",",
+			"goog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"67, 67, 67",
+			"255, 255, 255",
+			"130, 130, 130",
+			"85, 85, 85",
+			"221, 221, 221",
+			"106, 61, 113",
+			"163, 72, 177",
+			"68, 68, 68",
+			"163, 72, 177",
+			"247, 247, 247",
+			"239, 239, 239",
+			"163, 72",
+			"162, 72, 177",
+			"\nI",
+			"...I ",
+			"...I",
+			"Dúnedain",
+			"honour",
+			"Isengard",
+			"PIPPIN:",
+			"I'll",
+			"am I",
+			"IR:",
+			"MLI:",
+			"avour",
+			"axe.",
+			"Glóin",
+			"It",
+			"Isil",
+			"It'",
+			"-I",
+			"I've",
+			"I'd",
+			"I'm",
+			" I ",
+			"KILI:",
+			"FILI:",
+			"GALADRIEL:",
+			"LINDIR:",
+			"IN:",
+			"ALIN:",
+			"ORI:",
+			" I ",
+			"It ",
+			"In",
+			"I'll",
+			"I'd",
+			"I've",
+			"I'm",
+			"It's",
+			"[39, 40, 34]",
+			"GIMLI:",
+			"",
+			"cover",
+			"version",
+			"author",
+			"subtitle",
+			"title",
+			"version",
+			"author",
+			"subtitle",
+			"title",
+			"adasdsadb",
+			"~",
+			"true",
+			"",
+			"0px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Moka Light.sublime-theme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25487,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										2629,
+										2629
+									],
+									[
+										6491,
+										6491
+									],
+									[
+										8396,
+										8396
+									],
+									[
+										8550,
+										8550
+									],
+									[
+										12857,
+										12857
+									],
+									[
+										18124,
+										18124
+									],
+									[
+										18370,
+										18370
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								6491,
+								6491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Moka Dark.sublime-theme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25538,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										2627,
+										2627
+									],
+									[
+										6491,
+										6491
+									],
+									[
+										8405,
+										8405
+									],
+									[
+										8552,
+										8552
+									],
+									[
+										12832,
+										12832
+									],
+									[
+										18112,
+										18112
+									],
+									[
+										18365,
+										18365
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								6491,
+								6491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/aldomann/Dropbox/Binaries/Stuff/git-commands",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Moka.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Moka Dark.sublime-theme"
+			],
+			[
+				"n",
+				"new-fixer"
+			],
+			[
+				"gp",
+				"gpull"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Binaries/main.sublime-project"
+			]
+		],
+		"width": 424.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
