@@ -1,0 +1,39 @@
+# Moka Sublime Text Theme
+
+A set of custom UI themes for Sublime Text 2/3  that matches [Moka GTK+ theme](http://mokaproject.com/moka-gtk-theme/), based on [Spacegray](https://github.com/kkga/spacegray).
+
+***
+
+### Themes
+
+#### Moka Light
+Default flavour.
+
+#### Moka Dark
+Dark variation.
+
+***
+
+### How to Activate
+
+Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
+
+You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.
+
+***Note: Don't forget to restart Sublime Text after activating the theme.***
+
+#### Settings for Moka Dark
+
+```
+{
+  "theme": "Moka Dark.sublime-theme"
+}
+```
+
+#### Settings for Moka Light
+
+```
+{
+  "theme": "Moka Light.sublime-theme"
+}
+```
