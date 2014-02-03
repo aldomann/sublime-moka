@@ -1,4 +1,4 @@
-# Spacegray
+# Moka Sublime Text Theme
 
 A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal and comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
 
