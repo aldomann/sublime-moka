@@ -10,13 +10,13 @@ A set of custom UI themes for Sublime Text 2/3  that matches [Moka GTK+ theme](h
 
 Default flavour.
 
-![image](Screenshots/monokai-dark.png)
+![image](Screenshots/moka-dark.png)
 
 #### Moka Dark
 
 Dark variation.
 
-![image](Screenshots/monokai-light.png)
+![image](Screenshots/moka-light.png)
 
 *The font used in the screenshots is __Droid Sans__.*
 

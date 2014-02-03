@@ -42,22 +42,6 @@
 				"buffer_size": 25538,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"file": "/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 524,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/aldomann/Dropbox/Binaries/Stuff/git-commands",
-			"settings":
-			{
-				"buffer_size": 423,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -66,6 +50,34 @@
 		"height": 400.0,
 		"selected_items":
 		[
+			[
+				"prev",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"previre",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown prev",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"github",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"preview git",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"wra",
 				"Word Wrap: Toggle"
@@ -93,10 +105,6 @@
 			[
 				"side",
 				"View: Toggle Side Bar"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"book",
@@ -323,7 +331,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 601.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -345,26 +353,42 @@
 	},
 	"file_history":
 	[
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/package-metadata.json",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/README.md",
+		"/home/aldomann/Dropbox/Binaries/Stuff/git-commands",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/LICENCE",
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/messages/1.0.0.txt",
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/messages.json",
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/messages/install.txt",
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/messages/1.1.0.txt",
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/messages/1.1.3.txt",
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/messages/1.1.2.txt",
+		"/home/aldomann/Dropbox/Customisation/Themes/Theme - Moka/messages/1.1.1.txt",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages/install.txt",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages/1.1.3.txt",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages/1.1.2.txt",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages/1.1.1.txt",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages/1.1.0.txt",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Light.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Light.stTheme",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Dark.sublime-settings",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Dark.stTheme",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/package-metadata.json",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages.json",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka.sublime-project",
+		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/LICENSE",
+		"/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/aldomann/Dropbox/Binaries/Stuff/commands",
 		"/home/aldomann/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Dark.stTheme",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Light.stTheme",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka.sublime-project",
 		"/home/aldomann/Dropbox/Binaries/masterscript",
 		"/home/aldomann/.config/sublime-text-3/Packages/SublimeBookmarks/Default.sublime-keymap",
 		"/home/aldomann/.config/sublime-text-3/Packages/User/Default.sublime-keymap",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/README.md",
 		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka Light.sublime-theme",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/messages/1.1.3.txt",
 		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka Dark.sublime-theme",
-		"/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Dark.sublime-settings",
 		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
 		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.last-run",
 		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.ca-list",
 		"/home/aldomann/.config/sublime-text-3/Packages/User/Package Control.ca-bundle",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/package-metadata.json",
-		"/home/aldomann/.config/sublime-text-3/Packages/Theme - Moka/Moka/Widget - Moka Light.sublime-settings",
 		"/home/aldomann/Dropbox/Binaries/.bash_profile",
 		"/home/aldomann/Dropbox/Binaries/.bashrc",
 		"/home/aldomann/Dropbox/Binaries/25105.user.js",
@@ -456,23 +480,7 @@
 		"/usr/share/applications/nm-applet.desktop",
 		"/usr/share/applications/gcm-import.desktop",
 		"/usr/share/applications/gnome-documents.desktop",
-		"/usr/share/applications/exo-file-manager.desktop",
-		"/usr/share/applications/thunar-settings.desktop",
-		"/usr/share/applications/nautilus-classic.desktop",
-		"/usr/share/applications/nautilus-connect-server.desktop",
-		"/usr/share/applications/gcm-viewer.desktop",
-		"/usr/share/applications/gcm-calibrate.desktop",
-		"/usr/share/applications/gcm-picker.desktop",
-		"/usr/share/applications/gnome-color-panel.desktop",
-		"/usr/share/applications/Thunar-bulk-rename.desktop",
-		"/usr/share/applications/gnome-break-timer.desktop",
-		"/usr/share/applications/gnome-break-timer-service.desktop",
-		"/home/aldomann/Downloads/Shaun of the Dead [2004]/VobSub/Shaun of the Dead (2004) Blu-ray EUR 1080p AVC DTS 5.1 - ID13 - en-English_SDH_exp.sub",
-		"/home/aldomann/Downloads/Shaun of the Dead [2004]/VobSub/Shaun of the Dead (2004) Blu-ray EUR 1080p AVC DTS 5.1 - ID13 - en-English_SDH_exp.idx",
-		"/home/aldomann/.config/menus/gnome-applications.menu",
-		"/home/aldomann/.config/menus/applications-merged/user-chrome-apps.menu",
-		"/home/aldomann/.gnome/apps/chrome-gibjhmenngmjnbmhfemjkolgkofimfjc-Default.desktop",
-		"/home/aldomann/.local/share/desktop-directories/chrome-apps.directory"
+		"/usr/share/applications/exo-file-manager.desktop"
 	],
 	"find":
 	{
@@ -490,6 +498,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"active",
+			"licens",
 			"overl",
 			"scroll",
 			"WIP",
@@ -615,9 +625,7 @@
 			"[45, 45, 45]",
 			"45",
 			" l ",
-			"GIMLl:",
-			",",
-			"goog"
+			"GIMLl:"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -702,7 +710,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -755,8 +763,8 @@
 						"selection":
 						[
 							[
-								6491,
-								6491
+								1106,
+								1106
 							]
 						],
 						"settings":
@@ -766,10 +774,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4260.0,
+						"translation.y": 554.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -822,8 +830,8 @@
 						"selection":
 						[
 							[
-								6491,
-								6491
+								1101,
+								1101
 							]
 						],
 						"settings":
@@ -834,64 +842,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4056.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/aldomann/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 524,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								251,
-								251
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/aldomann/Dropbox/Binaries/Stuff/git-commands",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 423,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								235,
-								235
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 554.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -948,7 +899,7 @@
 		[
 			[
 				"",
-				"Moka Dark.sublime-theme"
+				"LICENSE"
 			],
 			[
 				"n",
