@@ -44,7 +44,7 @@ You can also install the theme manually:
 
 ### How to Activate
 
-Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
+Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User`.
 
 You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.
 
