@@ -1,6 +1,6 @@
 # Moka Sublime Text Theme
 
-A set of custom UI themes for Sublime Text 2/3  that matches [Moka GTK+ theme](http://mokaproject.com/moka-gtk-theme/), based on [Spacegray](https://github.com/kkga/spacegray).
+A set of custom UI themes for Sublime Text 2/3  that match [Moka GTK+ theme](http://mokaproject.com/moka-gtk-theme/), based on [Spacegray](https://github.com/kkga/spacegray).
 
 ***
 
