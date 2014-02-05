@@ -26,12 +26,11 @@ Dark variation.
 
 #### Via Package Control
 
-Comming soon...
-<!-- The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Moka is listed as `Theme - Moka`. -->
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Moka is listed as `Theme - Moka`.
 
-<!-- 1. Open Command Palette using menu item `Tools -> Command Palette...` (Ctrl + Shift + P). -->
-<!-- 2. Choose `Package Control: Install Package` -->
-<!-- 3. Find `Theme - Moka` and hit Enter -->
+1. Open Command Palette using menu item `Tools -> Command Palette...` (Ctrl + Shift + P).
+2. Choose `Package Control: Install Package`
+3. Find `Theme - Moka` and hit Enter
 
 #### Manual
 
